@@ -19,7 +19,7 @@ export class WelcomeComponent implements OnInit {
   ngOnInit() {
     const dd = require('npm-dom-zhu');
     dd.lai();
-    dd.add(1, 2);
+    dd.add(1, 5);
   }
 
 }
