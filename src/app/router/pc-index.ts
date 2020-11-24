@@ -1,4 +1,4 @@
-import { PathLibrary } from '../core/libs/path-library';
+import { PathLibrary } from '../core/api-library/path-library';
 
 // 移动端 路由管理
 
